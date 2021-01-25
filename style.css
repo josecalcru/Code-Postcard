@@ -4,6 +4,7 @@
     width: 500px;
     margin: auto;
     overflow: hidden;
+    padding: 10px;
 }
 
 /* This selector is used to place an element to the left*/
@@ -16,8 +17,9 @@
     float: right;
 }
 
-body{
+.container{
     font-family:cursive ;
+    
 }
 
 .small{
