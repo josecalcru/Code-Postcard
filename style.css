@@ -1,0 +1,52 @@
+
+/* This selector is used to center the postcard*/
+.square{
+    width: 500px;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* This selector is used to place an element to the left*/
+.left{
+    float: left;
+}
+
+/* This selector is used to place an element to the right*/
+.right{
+    float: right;
+}
+
+body{
+    font-family:cursive ;
+}
+
+.small{
+    width: 75px;
+    height: 75x;
+}
+
+p{
+    width: 250px;
+}
+
+ input{
+     
+     border-style: none;
+border-bottom: 2px solid #ccc!important;
+color: gray;
+font-family:cursive
+ }
+
+.Button1{
+    text-align: center ;
+    background: #BDBDBD;
+    border: #5E5E5E;
+    border-radius: 5px;
+    font-family:cursive
+
+}
+
+.center{
+    text-align: center;
+}
+
